@@ -1,5 +1,5 @@
 # Linear-Algebra
-Learning Linear ALgebra using Python
+Learning Linear Algebra using Python
 ## Prerequisite
 Python **(ver 3.0 or above)**\
 Numpy module\
